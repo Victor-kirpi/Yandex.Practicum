@@ -7,11 +7,7 @@ There are training projects as part of the Data Science course by Yandex.practic
     <td>Description</td>
     <td>Libraries | Modules</td>
   </tr>
-  
-  
-  
-  
-  
+
   <tr>
     <td><a href="https://github.com/Victor-kirpi/Yandex.Praktikum/blob/main/15_ML_Telecom_final_project_Yandex/15_ML_Telecom_final_project_Yandex.ipynb">15. Identification of a potentially exiting client of a telecom company</a></td>
     <td>It is necessary to Learn to identify a potentially outgoing client based on the operator's client base</td>
